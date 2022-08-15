@@ -4,38 +4,30 @@
   
   
   <entry>
-    <title>all</title>
-    <link href="/2022/08/02/all/"/>
-    <url>/2022/08/02/all/</url>
+    <title>设计原图</title>
+    <link href="/2022/08/15/original-image/"/>
+    <url>/2022/08/15/original-image/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/fatesealed/img/new/2022/08/15/74b78541dbdf63e5ba5affceb544f686-1660539629068-a5dd09.jpg" alt="1660539629068"></p><p><img src="https://cdn.jsdelivr.net/gh/fatesealed/img/new/2022/08/15/aed4d937a6ddca89bb93b38134cfb99b-1660539629052-2b6898.jpg" alt="1660539629052"></p><p><img src="https://cdn.jsdelivr.net/gh/fatesealed/img/new/2022/08/15/9efb143c1fc7b388d711a15f0da6eef9-1660539629039-1d8fb8.jpg" alt="1660539629039"></p><p>网站设计原图</p>]]></content>
     
     
     <categories>
       
-      <category>Diary</category>
+      <category>设计</category>
       
     </categories>
     
     
-    <tags>
-      
-      <tag>PS3</tag>
-      
-      <tag>Games</tag>
-      
-    </tags>
-    
   </entry>
   
   
   
   <entry>
-    <title>companyIntroduction</title>
-    <link href="/2022/07/24/companyIntroduction/"/>
-    <url>/2022/07/24/companyIntroduction/</url>
+    <title>服务于优势</title>
+    <link href="/2022/08/15/services-and-advantages/"/>
+    <url>/2022/08/15/services-and-advantages/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h2 id="服务"><a href="#服务" class="headerlink" title="服务"></a>服务</h2><h3 id="依托于北部园区"><a href="#依托于北部园区" class="headerlink" title="依托于北部园区"></a>依托于北部园区</h3><h3 id="给老百姓提供洗姜服务"><a href="#给老百姓提供洗姜服务" class="headerlink" title="给老百姓提供洗姜服务"></a>给老百姓提供洗姜服务</h3><h3 id="给客服提供原材料仓储"><a href="#给客服提供原材料仓储" class="headerlink" title="给客服提供原材料仓储"></a>给客服提供原材料仓储</h3><h3 id="给深加工客户提供服务"><a href="#给深加工客户提供服务" class="headerlink" title="给深加工客户提供服务"></a>给深加工客户提供服务</h3><h2 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h2><h3 id="园区规模"><a href="#园区规模" class="headerlink" title="园区规模"></a>园区规模</h3><h3 id="原料优势"><a href="#原料优势" class="headerlink" title="原料优势"></a>原料优势</h3><h3 id="国外各办事处"><a href="#国外各办事处" class="headerlink" title="国外各办事处"></a>国外各办事处</h3><h4 id="美国"><a href="#美国" class="headerlink" title="美国"></a>美国</h4><h4 id="印度"><a href="#印度" class="headerlink" title="印度"></a>印度</h4><h4 id="非洲"><a href="#非洲" class="headerlink" title="非洲"></a>非洲</h4><h4 id="欧洲"><a href="#欧洲" class="headerlink" title="欧洲"></a>欧洲</h4><h3 id="中药材经营许可"><a href="#中药材经营许可" class="headerlink" title="中药材经营许可"></a>中药材经营许可</h3>]]></content>
     
     
     
@@ -44,12 +36,151 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2022/07/12/hello-world/"/>
-    <url>/2022/07/12/hello-world/</url>
+    <title>中药材</title>
+    <link href="/2022/08/15/chinese-medicinal-materials/"/>
+    <url>/2022/08/15/chinese-medicinal-materials/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="产品介绍"><a href="#产品介绍" class="headerlink" title="产品介绍"></a>产品介绍</h2>]]></content>
     
+    
+    <categories>
+      
+      <category>产品</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>姜啤酒</title>
+    <link href="/2022/08/15/ginger-beer/"/>
+    <url>/2022/08/15/ginger-beer/</url>
+    
+    <content type="html"><![CDATA[<h2 id="产品介绍"><a href="#产品介绍" class="headerlink" title="产品介绍"></a>产品介绍</h2><p><img src="https://cdn.jsdelivr.net/gh/fatesealed/img/new/2022/08/15/560efafa7e5ed3b3fe652b24b9929019-%E5%A4%A7%E5%A4%A9%E7%8B%97-eaf3f2.png" alt="大天狗"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>产品</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>姜精油</title>
+    <link href="/2022/08/15/ginger-essential-oil/"/>
+    <url>/2022/08/15/ginger-essential-oil/</url>
+    
+    <content type="html"><![CDATA[<hr><h2 id="产品介绍"><a href="#产品介绍" class="headerlink" title="产品介绍"></a>产品介绍</h2><p><img src="https://cdn.jsdelivr.net/gh/fatesealed/img/new/2022/08/15/dfe9eb892443e0c48d0a1ec11b589265-%E6%8B%9B%E8%B4%A2%E7%8C%AB-f9c290.png" alt="招财猫"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>产品</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>姜丝</title>
+    <link href="/2022/08/15/shredded-ginger/"/>
+    <url>/2022/08/15/shredded-ginger/</url>
+    
+    <content type="html"><![CDATA[<h2 id="产品介绍"><a href="#产品介绍" class="headerlink" title="产品介绍"></a>产品介绍</h2><p><img src="https://cdn.jsdelivr.net/gh/fatesealed/img/new/2022/08/15/8079a5225b93acd1fd63d2aac95f282c-%E9%B8%A9-1d822c.png" alt="鸩"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>产品</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>姜干</title>
+    <link href="/2022/08/15/dried-ginger/"/>
+    <url>/2022/08/15/dried-ginger/</url>
+    
+    <content type="html"><![CDATA[<h2 id="产品介绍"><a href="#产品介绍" class="headerlink" title="产品介绍"></a>产品介绍</h2><p><img src="https://cdn.jsdelivr.net/gh/fatesealed/img/new/2022/08/15/f582bd6fa9b444cc1d6af04a69e25d79-%E7%99%BD%E8%97%8F%E4%B8%BB-b49367.png" alt="白藏主"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>产品</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>生姜(鲜姜)</title>
+    <link href="/2022/08/15/fresh-ginger/"/>
+    <url>/2022/08/15/fresh-ginger/</url>
+    
+    <content type="html"><![CDATA[<h2 id="产品详情"><a href="#产品详情" class="headerlink" title="产品详情"></a>产品详情</h2><p><img src="https://cdn.jsdelivr.net/gh/fatesealed/img/new/2022/08/15/92438e1b719787cfa5e9fec59ba51fce-%E6%A8%B1%E8%8A%B1%E5%A6%96-b00ee0.png" alt="樱花妖"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>公司产品</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>企业荣誉</title>
+    <link href="/2022/08/15/company-honor/"/>
+    <url>/2022/08/15/company-honor/</url>
+    
+    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/fatesealed/img/new/2022/08/15/6975ff7f8acc76271e1e5ffaadfc27aa-%E9%9D%A2%E7%81%B5%E6%B0%94%E8%A7%89%E9%86%92%E7%9A%AE-8be409.png" alt="面灵气觉醒皮"></p><h2 id="和哪些机构合作"><a href="#和哪些机构合作" class="headerlink" title="和哪些机构合作"></a>和哪些机构合作</h2><h2 id="领导考察参观"><a href="#领导考察参观" class="headerlink" title="领导考察参观"></a>领导考察参观</h2>]]></content>
+    
+    
+    <categories>
+      
+      <category>公司介绍</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>企业介绍</title>
+    <link href="/2022/08/15/company-profile/"/>
+    <url>/2022/08/15/company-profile/</url>
+    
+    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/fatesealed/img/new/2022/08/15/73783a71da34b34611b936a9217f22ca-%E8%BE%89%E5%A4%9C%E5%A7%AC-dac507.png" alt="辉夜姬"></p><h2 id="北部园区"><a href="#北部园区" class="headerlink" title="北部园区"></a>北部园区</h2><h2 id="南部厂区"><a href="#南部厂区" class="headerlink" title="南部厂区"></a>南部厂区</h2>]]></content>
+    
+    
+    <categories>
+      
+      <category>公司介绍</category>
+      
+    </categories>
     
     
   </entry>
